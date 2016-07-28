@@ -1,20 +1,20 @@
 # miRBShunter
 A pipeline to identify miRNA binding sites from Ago2-CLIP data by de novo motif finding
 
-***	Requirements. ***
+***  Requirements. ***
 
 Required Python libraries are:
 
-Bio.Seq 
+- Bio.Seq 
 
-wx (for the GUI)
+- wx (for the GUI)
 
 
 Required programs installed and available in the path:
 
-Homer -> http://homer.salk.edu/homer/
+- Homer -> http://homer.salk.edu/homer/
 
-Meme Suite -> http://meme-suite.org/doc/download.html
+- Meme Suite -> http://meme-suite.org/doc/download.html
 
 
 Genome sequences in fasta files. You can download them from UCSC web site or you can find them in Homer folder. 
