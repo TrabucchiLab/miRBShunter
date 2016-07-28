@@ -29,7 +29,7 @@ Genome sequences in fasta files are required as well. You can download them from
 Just simply untar the package in any destination folder:
 
 
-         tar zxvf miRBShunter_v1.0.tgz ./
+         tar zxvf miRBShunter_v1.0.tar ./
 
 
 You'll find four folders:
