@@ -17,7 +17,7 @@ Required programs installed and available in the path:
 - Meme Suite -> http://meme-suite.org/doc/download.html
 
 
-Genome sequences in fasta files. You can download them from UCSC web site or you can find them in Homer folder. 
+Genome sequences in fasta files are required as well. You can download them from UCSC web site or you can find them in Homer folder. 
 
 
 ***  Installation. ***
