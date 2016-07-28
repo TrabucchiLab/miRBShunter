@@ -44,7 +44,7 @@ You'll find four folders:
 
 
 
-*** Using the miRBShunte pipeline. ***
+*** Using the miRBShunter pipeline. ***
 
 
 miRBShunter could be run either via command line (shell) or using the user-friendly GUI. To run the GUI easily type:
