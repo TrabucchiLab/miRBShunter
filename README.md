@@ -1,7 +1,7 @@
 # miRBShunter
 A pipeline to identify miRNA binding sites from Ago2-CLIP data by de novo motif finding.
 
-
+Please always use the last release!
 
 
 ***  Requirements. ***
@@ -65,7 +65,7 @@ Input files:
 peaks bed file: Coordinates of peaks found by peak calling tool. The file must contain 6 columns (chr, st, end, pval, reads, strand).
 
 
-miRNA sequences file: a file with the most expressed miRNA in fasta format.
+miRNA sequences file: a file with the most expressed miRNA in fasta format (DNA encoded mandatory). Alphabet to use: A,C,G,T. 
 
 
 
