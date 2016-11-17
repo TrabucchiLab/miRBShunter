@@ -73,7 +73,7 @@ Examples files are provided in the example_data folder.
 
 
 
-         usage: python ./miRBShunter_make_script.py [options] [peaksbedfile] [mirnafastafile]
+         usage: python ./miRBShunter_script.py [options] [peaksbedfile] [mirnafastafile]
 
 
 
